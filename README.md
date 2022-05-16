@@ -17,10 +17,10 @@ As per the design specifications for the MechaCar, the variance for their suspen
 
 We completed T-Tests on the PSI across all manufacturing lots and then each of the individual lots as a subset compared to their population mean. As shown below, the p-value determined for a sample across all manufacturing lots was 0.79 which is above the significance level and therefore we cannot reject the null hypothesis, so the two means are statistically similar. For Lot One the p-value result came out to be a value of 1.568 x 10^-11 which is way below the significance level and thus the mean is not considered to be statistically similar. For Lot Two the p-value was determined to be 0.0006 which is close but below our threshold at 0.05, and the mean is not considered to be statistically similar. For Lot Three the p-value calculated to 0.16 which is above the threshold and we could not reject the null hypothesis in this case, so its mean is considered to be statistically similar. 
 
-![all_lot_t_test](Resources/all_lot_t_test)
-![lot_one_t_test](Resources/lot_one_t_test)
-![lot_two_t_test](Resources/lot_two_t_test)
-![lot_three_t_test](Resources/lot_three_t_test)
+![all_lot_t_test](Resources/all_lot_t_test.png)
+![lot_one_t_test](Resources/lot_one_t_test.png)
+![lot_two_t_test](Resources/lot_two_t_test.png)
+![lot_three_t_test](Resources/lot_three_t_test.png)
 
 ## Study Design: MechaCar vs Competition
 
